@@ -1,7 +1,7 @@
 ![](https://media.giphy.com/media/lMsT2f47tDxFMYdJMC/giphy-downsized.gif)
 
 # Links Para estudos
-<h1>Regex</h1>
+<h3>Regex</h3>
 :star2: <a href="https://medium.com/trainingcenter/entendendo-de-uma-vez-por-todas-express%C3%B5es-regulares-parte-1-introdu%C3%A7%C3%A3o-dfe63e289dc3" target="_blank">Parte - 1 </a>
 :star2: <a href="https://medium.com/trainingcenter/entendendo-de-uma-vez-por-todas-express%C3%B5es-regulares-3538d42870f3" target="_blank">Parte - 2 </a>
 :star2: <a href="https://medium.com/trainingcenter/expressoes-regulares-parte-3-8fbd6b20a5f6" target="_blank">Parte - 3 </a>
