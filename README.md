@@ -10,4 +10,4 @@
 :star2: <a href="https://medium.com/trainingcenter/expressoes-regulares-parte-6-85804a357767" target="_blank">Parte - 6 </a>
 :star2: <a href="https://medium.com/trainingcenter/entendendo-de-uma-vez-por-todas-express%C3%B5es-regulares-parte-7-66be1ac1f72d" target="_blank">Parte - 7 </a>
 <br>
-<p> :octocat: Quer testar o Rejex?  clica aqui no <a href="https://regex101.com/" target="_blank">link </a><p>
+<p> :octocat: Quer testar o Regex?  clica aqui no <a href="https://regex101.com/" target="_blank">link </a><p>
