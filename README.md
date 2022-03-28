@@ -15,3 +15,9 @@
 :star2: <a href="https://www.youtube.com/watch?v=AvDGckuUWNo&t=27s" target="_blank">Vídeo - 1 </a>
 :star2: <a href="https://pt.khanacademy.org/computing/computer-programming/programming#intro-to-programming" target="_blank">Curso Grátis - 2 </a>
 :star2: <a href="https://alunos.b7web.com.br/curso/javascript/introducao" target="_blank">Curso Grátis - 3 </a>
+<h3>Angular</h3>
+:star2: <a href="https://www.hostinger.com.br/tutoriais/o-que-e-angular?ppc_campaign=google_performance_max&gclid=CjwKCAjwuYWSBhByEiwAKd_n_hTYJWd0wKaLTwCD0UAGUpE-BEixHISjIDp0Zc9bLhVCKg6gHbuX1xoC66MQAvD_BwE" target="_blank">Guia para Iniciantes</a>
+:star2: <a href="https://medium.com/cafe-recursivo/angular-entendendo-como-uma-aplica%C3%A7%C3%A3o-angular-funciona-3ded82febd7d" target="_blank">Leitura - 2</a>
+:star2: <a href="https://medium.com/cafe-recursivo/angular-criando-e-entendendo-projetos-angular-976662b33684E" target="_blank">Leitura - 3</a>
+<h3>Typescript</h3>
+:star2: <a href="https://medium.com/xp-inc/typescript-interfaces-9ef875cf046b" target="_blank">Leitura - 1</a>
