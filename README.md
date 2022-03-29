@@ -21,3 +21,6 @@
 :star2: <a href="https://medium.com/cafe-recursivo/angular-criando-e-entendendo-projetos-angular-976662b33684E" target="_blank">Leitura - 3</a>
 <h3>Typescript</h3>
 :star2: <a href="https://medium.com/xp-inc/typescript-interfaces-9ef875cf046b" target="_blank">Leitura - 1</a>
+<h3>Websocket</h3>
+:star2: <a href="https://tutorialedge.net/typescript/angular/angular-websockets-tutorial/" target="_blank">Websocket + Angular(Inglês)</a>
+:star2: <a href="https://stomp-js.github.io/guide/ng2-stompjs/ng2-stomp-with-angular7.html" target="_blank">ng2(Inglês)</a>
